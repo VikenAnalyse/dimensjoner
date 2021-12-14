@@ -9,6 +9,7 @@ Typiske dimensjoner til vårt bruk vil være:
 - regionale dimensjoner (grunnkrets, kommuner, fylker, ulike administrative og analytiske regioner)
 - næringskoder (NACE)
 - utdanningskoder
+- alderskohorter
 - sykdoms- og dødsårsakskoder
 - m.m.
 
