@@ -16,8 +16,14 @@ Typiske dimensjoner til vårt bruk vil være:
 ### For å lage en kobling til tabeller i xlsx-format fra Power Query (Excel eller Power BI):
 1) Finn tabellen på GitHub
 2) Høyreklikk på tabellnavnet og velg ***Kopier lenke***
+
+![Kopier lenke](https://user-images.githubusercontent.com/86664605/148216859-32115cd6-e53a-4bef-964e-ca30c4f7c5ff.png)
+
 3) Lim inn i en tekst editor og erstatt elementet ***blob*** med ***raw***
 4) Velg ny kilde fra Web i Power Query og lim inn den redigerte lenken
+
+![Erstatt blob med raw](https://user-images.githubusercontent.com/86664605/148217651-fa8c9719-32b5-401e-9482-357744dc8add.png)
+
 
 
 
