@@ -1,8 +1,8 @@
 ﻿knummer_fra;kommunenavn_fra;kommunenr_2020;kommune_2020;;;;;
 3001;Halden;3001;Halden;;;;;
-0101;Halden (-2019);3001;Halden;;;;;
-3002;Moss;3002;Moss;;;;;* Kommunegrensejusteringer er ikke ihensyntatt
-0301;Oslo kommune;0301;Oslo;;;;;* 5012 Snillfjord ble splittet i tre i 2020, men er i tabellen i sin helhet plassert i nye 5059 Orkland kommune
+0101;Halden (-2019);3001;Halden;;;;
+3002;Moss;3002;Moss;;;;;
+0301;Oslo kommune;0301;Oslo;;;;
 3003;Sarpsborg;3003;Sarpsborg;;;;;
 0104;Moss (-2019);3002;Moss;;;;;
 3004;Fredrikstad;3004;Fredrikstad;;;;;
